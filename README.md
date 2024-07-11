@@ -9,6 +9,6 @@ layout LinearLayout dalam sebuah ScrollView untuk memungkinkan tampilan daftar y
 ## Demo Video
 ![]()
 ## Hasil Akhir
-![]()
+![](https://github.com/SenyAdinda/Seny_Remidi/blob/main/dokumentasi.png)
 ## Dokumentasi
 ![](https://github.com/SenyAdinda/Seny_Remidi/blob/main/dokumentasi.png)
